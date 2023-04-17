@@ -10,3 +10,17 @@ Use the following commands to run the program and display the Demo scene: 'g++ P
 
 
 Packages lGL, lGLEW and lglfw are used to run this program, which can be obtained by using command 'sudo apt-get install libGL-dev'
+
+CAMERA CONTROLS:
+Up arrow = Camera up
+Down arrow = Camera down
+Left arrow = Camera left
+Right arrow = Camera right
+
+CTRL+UP = Rotate vertically
+CTRL+DOWN = Rotate vertically
+CTRL+RIGHT = Rotate horizontally
+CTRL+LEFT = Rotate horizontally
+
+Shift + , "<" = Tilt camera
+Shift + . ">" = Tilt camera
